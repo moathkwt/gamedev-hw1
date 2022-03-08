@@ -1,0 +1,13 @@
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.csproj.AssemblyReference.cache
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfoInputs.cache
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfo.cs
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.csproj.CoreCompileInputs.cache
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/bin/Debug/netcoreapp3.1/homework.deps.json
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.json
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.dev.json
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/bin/Debug/netcoreapp3.1/homework.dll
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/bin/Debug/netcoreapp3.1/homework.pdb
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.dll
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.pdb
+/Users/moathalshalahi/Desktop/gamedev-hw1/homework/homework/obj/Debug/netcoreapp3.1/homework.genruntimeconfig.cache
