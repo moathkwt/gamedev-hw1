@@ -6,7 +6,7 @@ namespace homework
     {
         static void Main(string[] args)
         {
-            int hero = 100;
+            string hero = "arrow";
 
             int health = 100;
 
